@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background">#0b1120</color>
+    <color name="app_card">#141e33</color>
+    <color name="app_gold">#d4af37</color>
+    <color name="ic_background">#0b1120</color>
+    <color name="app_green">#00964d</color>
+    <color name="app_text">#efe8da</color>
+    <color name="app_text_dim">#8a7d6b</color>
+</resources>
