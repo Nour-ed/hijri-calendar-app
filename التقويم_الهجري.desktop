@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=التقويم الهجري
+Name[en]=Hijri Calendar
+Comment=تقويم هجري مع حساب العمر ومحول التاريخ
+Comment[en]=Hijri calendar with age calculator and date converter
+Exec=python3 /home/nou/Documents/open code AI/launcher.py
+Path=/home/nou/Documents/open code AI
+Icon=/home/nou/Documents/open code AI/icon_512.png
+Terminal=false
+Categories=Office;Calendar;
+StartupNotify=true
