@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a1628"/>
+      <stop offset="100%" style="stop-color:#1a2a40"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f5d77b"/>
+      <stop offset="50%" style="stop-color:#d4af37"/>
+      <stop offset="100%" style="stop-color:#b8962e"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="100" fill="url(#bg)"/>
+  <!-- Decorative arch -->
+  <path d="M96 440 Q256 60 416 440" fill="none" stroke="url(#gold)" stroke-width="6" opacity="0.3"/>
+  <path d="M126 440 Q256 100 386 440" fill="none" stroke="url(#gold)" stroke-width="4" opacity="0.2"/>
+  <!-- Crescent -->
+  <path d="M280 130 Q340 170 340 240 Q340 310 280 350 Q310 300 310 240 Q310 180 280 130Z" fill="url(#gold)" opacity="0.9"/>
+  <!-- Star -->
+  <polygon points="340,200 350,230 380,230 355,248 365,278 340,260 315,278 325,248 300,230 330,230" fill="url(#gold)" opacity="0.8"/>
+  <!-- Calendar lines -->
+  <rect x="140" y="320" width="232" height="120" rx="12" fill="none" stroke="url(#gold)" stroke-width="4" opacity="0.6"/>
+  <line x1="140" y1="360" x2="372" y2="360" stroke="url(#gold)" stroke-width="3" opacity="0.4"/>
+  <line x1="173" y1="360" x2="173" y2="440" stroke="url(#gold)" stroke-width="2" opacity="0.3"/>
+  <line x1="206" y1="360" x2="206" y2="440" stroke="url(#gold)" stroke-width="2" opacity="0.3"/>
+  <line x1="239" y1="360" x2="239" y2="440" stroke="url(#gold)" stroke-width="2" opacity="0.3"/>
+  <line x1="272" y1="360" x2="272" y2="440" stroke="url(#gold)" stroke-width="2" opacity="0.3"/>
+  <line x1="305" y1="360" x2="305" y2="440" stroke="url(#gold)" stroke-width="2" opacity="0.3"/>
+  <line x1="338" y1="360" x2="338" y2="440" stroke="url(#gold)" stroke-width="2" opacity="0.3"/>
+  <circle cx="157" cy="390" r="8" fill="url(#gold)" opacity="0.7"/>
+  <circle cx="190" cy="390" r="8" fill="url(#gold)" opacity="0.4"/>
+  <circle cx="223" cy="390" r="8" fill="url(#gold)" opacity="0.4"/>
+  <circle cx="256" cy="390" r="11" fill="url(#gold)" opacity="1"/>
+  <circle cx="289" cy="390" r="8" fill="url(#gold)" opacity="0.4"/>
+  <circle cx="322" cy="390" r="8" fill="url(#gold)" opacity="0.4"/>
+  <circle cx="355" cy="390" r="8" fill="url(#gold)" opacity="0.7"/>
+</svg>
