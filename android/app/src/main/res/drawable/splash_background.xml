@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:opacity="opaque">
+    <item android:drawable="@color/app_background" />
+    <item
+        android:width="96dp"
+        android:height="96dp"
+        android:gravity="center">
+        <shape android:shape="oval">
+            <solid android:color="#1a2540" />
+            <stroke android:width="2dp" android:color="#d4af37" />
+        </shape>
+    </item>
+    <item
+        android:gravity="center"
+        android:drawable="@mipmap/ic_launcher" />
+</layer-list>
