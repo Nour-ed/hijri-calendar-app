@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">التقويم الهجري</string>
+    <string name="app_description">تطبيق التقويم الهجري مع أوقات الصلاة والمناسبات الدينية</string>
+    <string name="notification_channel_events">المناسبات الدينية</string>
+    <string name="notification_channel_reminders">التذكيرات اليومية</string>
+</resources>
